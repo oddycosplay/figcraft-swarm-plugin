@@ -1,0 +1,12 @@
+{
+  "name": "figcraft-swarm",
+  "displayName": "FigCraft Swarm",
+  "version": "0.6.0",
+  "description": "Tim multi-agent swarm (Product Manager Coordinator + 5 sub-agent spesialis: BA, UX Designer, Copywriter, UI Designer, QA) untuk membangun UI secara paralel di FigCraft Live Canvas.",
+  "repository": "https://github.com/oddycosplay/figcraft-swarm-plugin",
+  "suggestedPrompts": [
+    "Jalankan FigCraft Swarm Build dengan Product Manager Coordinator dan sub-agent (ba, ux-designer, copywriter, ui-designer, qa)",
+    "Partisi halaman FigCraft aktif dan tugaskan pembuatan UI per section ke tim swarm",
+    "Jalankan audit visual dan layout pada dokumen aktif FigCraft dengan figcraft-qa"
+  ]
+}
